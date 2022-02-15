@@ -1,0 +1,15 @@
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\switch-case.exe
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\switch-case.deps.json
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\switch-case.dll
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\ref\switch-case.dll
+F:\deneme1\switch-case\switch-case\bin\Debug\net6.0\switch-case.pdb
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.dll
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\ref\switch-case.dll
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.pdb
+F:\deneme1\switch-case\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
